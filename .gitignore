@@ -217,3 +217,6 @@ __marimo__/
 
 # Generated visualizations
 *.png
+
+# HTML viewer files
+view_results.html
