@@ -214,3 +214,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated visualizations
+*.png
+
+# HTML viewer files
+view_results.html
